@@ -73,7 +73,7 @@ activities = {
         "description": "Conduct experiments and explore scientific concepts",
         "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
         "max_participants": 22,
-        "participants": ["ethan@mergington.edu"]
+        "participants": ["tom@mergington.edu"]
     }
 }
 
